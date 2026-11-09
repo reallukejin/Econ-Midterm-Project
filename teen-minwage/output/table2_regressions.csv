@@ -1,0 +1,13 @@
+,"(1) Pooled, no controls","(2) Pooled, controls","(3) FE, teen share only","(4) FE, + adult unemp.","(5) FE, all controls (main)"
+Log real minimum wage,-11.56***,-15.83***,-3.10**,-2.64*,-2.60*
+,(1.74),(1.89),(1.48),(1.49),(1.49)
+"Unemployment rate, 20+ (%)",,-1.93***,,-0.60**,-0.60**
+,,(0.23),,(0.24),(0.24)
+Teen share of 16+ pop. (%),,-0.44,0.10,0.14,0.15
+,,(0.55),(0.45),(0.44),(0.43)
+Log real median HH income,,22.52***,,,-0.80
+,,(1.89),,,(3.86)
+State dummies,No,No,Yes,Yes,Yes
+Year dummies,No,No,Yes,Yes,Yes
+N (state-years),386,386,386,386,386
+R-squared,0.086,0.412,0.918,0.920,0.920
